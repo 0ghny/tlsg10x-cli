@@ -2,6 +2,11 @@
 
 I created this utility initially to retrieve information in an scriptted way of my TPLink switches, and create scheduled backups.
 
+## Install
+
+1. Download the binary for your platform and architecture from Releases page
+2. (Or) Install it using my [ASDF Plugin](https://github.com/0ghny/asdf-tlsgcli)
+
 ## Usage
 
 ```raw
